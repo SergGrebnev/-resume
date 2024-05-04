@@ -4,7 +4,7 @@
 
 **телефон:** +7 (913) 907-94-79
 
-**email:** smrg@mail.ru
+**email:** qa.serggrebnev@gmail.com
 
 **Telegram:** @CEPE7A_54
 
