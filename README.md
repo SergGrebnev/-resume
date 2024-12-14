@@ -24,6 +24,7 @@
 - [Работа с Git](/img/certificate_02.pdf), одновременная работа с несколькими репозиториями
 - [Автоматизированное тестирование веб-приложений на Java](/img/certificate_03.pdf)
 - [Знание основ Java Script](/img/certificate_04.pdf)
+- Знаком с платформой Node.js, библиотеками Jest, Playwright, фреймворками Puppeteer, Cypress
 - Понимание HTML разметки
 - Пользователь ОС Linux
 
