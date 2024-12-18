@@ -6,7 +6,9 @@
 
 **email:** qa.serggrebnev@gmail.com
 
-**Telegram:** @CEPE7A_54
+**Telegram:** [@CEPE7A_54](https://t.me/CEPE7A_54)
+
+**GitHub:** [https://github.com/SergGrebnev](https://github.com/SergGrebnev)
 
 
 # Инженер по тестированию
