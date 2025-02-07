@@ -10,6 +10,8 @@
 
 **GitHub:** [https://github.com/SergGrebnev](https://github.com/SergGrebnev)
 
+**GitVerse:** [https://gitverse.ru/SergGrebnev](https://gitverse.ru/SergGrebnev)
+
 
 # Инженер по тестированию
 
@@ -19,15 +21,15 @@
 - Знание методологий тестирования и техник тест-дизайна
 - Понимание процесса разработки и жизненного цикла ПО
 - Умение анализировать требования
-- [Ручное тестирование](/img/certificate_01_manualWeb.pdf), написание тест-кейсов, баг-репортов
+- [Ручное тестирование](./img/certificate_01_manualWeb.pdf), написание тест-кейсов, баг-репортов
 - Тестирование веб-приложений, REST API, понимание клиент-серверного взаимодействия
 - Работа с DevTools, Postman, Jira
 - Понимание работы баз данных, написание SQL-запросов
-- [Работа с Git](/img/certificate_02_Git.pdf), одновременная работа с несколькими репозиториями
-- [Знание основ Java](/img/certificate_03_Java.pdf)
-- [Знание основ Java Script](/img/certificate_05_JavaScript.pdf)
-- [Автоматизированное тестирование на Java](/img/certificate_04_autoJava.pdf)
-- [Автоматизированное тестирование web интерфейсов](/img/certificate_06_autoWeb.pdf)
+- [Работа с Git](./img/certificate_02_Git.pdf), одновременная работа с несколькими репозиториями
+- [Знание основ Java](./img/certificate_03_Java.pdf)
+- [Знание основ Java Script](./img/certificate_05_JavaScript.pdf)
+- [Автоматизированное тестирование на Java](./img/certificate_04_autoJava.pdf)
+- [Автоматизированное тестирование web интерфейсов](./img/certificate_06_autoWeb.pdf)
 - Знаком с платформой Node.js, библиотеками Jest, Playwright, фреймворками Puppeteer, Cypress
 - Понимание HTML разметки
 - Пользователь ОС Linux
@@ -59,7 +61,7 @@
 
 #### 2025 -
 Школа информационных и финансовых технологий (ШИФТ):
-- курс QA Java
+- курс QA Java [(сертификат)](./img/certificate_SIFT.pdf)
 
 #### 2025 - 
 Нетология - основной курс:
