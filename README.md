@@ -10,6 +10,8 @@
 
 **GitHub:** [https://github.com/SergGrebnev](https://github.com/SergGrebnev)
 
+**GitLab:** [https://gitlab.com/SergGrebnev](https://gitlab.com/SergGrebnev)
+
 **GitVerse:** [https://gitverse.ru/SergGrebnev](https://gitverse.ru/SergGrebnev)
 
 
@@ -23,14 +25,15 @@
 - Умение анализировать требования
 - [Ручное тестирование](./img/certificate_01_manualWeb.pdf), написание тест-кейсов, баг-репортов
 - Тестирование веб-приложений, REST API, понимание клиент-серверного взаимодействия
-- Работа с DevTools, Postman, Jira
+- Работа с DevTools, Postman, Jira, Docker
 - Понимание работы баз данных, написание SQL-запросов
 - [Работа с Git](./img/certificate_02_Git.pdf), одновременная работа с несколькими репозиториями
 - [Знание основ Java](./img/certificate_03_Java.pdf)
 - [Знание основ Java Script](./img/certificate_05_JavaScript.pdf)
 - [Автоматизированное тестирование на Java](./img/certificate_04_autoJava.pdf)
 - [Автоматизированное тестирование web интерфейсов](./img/certificate_06_autoWeb.pdf)
-- Знаком с платформой Node.js, библиотеками Jest, Playwright, фреймворками Puppeteer, Cypress
+- Знаком с платформой Node.js, библиотеками Jest, Playwright, фреймворками Puppeteer, Cypress, Spring, Allure, Citrus
+- [Знание основ мобильного тестирования](./img/certificate_07_Mobile.pdf)
 - Понимание HTML разметки
 - Пользователь ОС Linux
 
