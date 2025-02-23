@@ -10,10 +10,6 @@
 
 **GitHub:** [https://github.com/SergGrebnev](https://github.com/SergGrebnev)
 
-**GitLab:** [https://gitlab.com/SergGrebnev](https://gitlab.com/SergGrebnev)
-
-**GitVerse:** [https://gitverse.ru/SergGrebnev](https://gitverse.ru/SergGrebnev)
-
 
 # Инженер по тестированию
 
